@@ -1,0 +1,8 @@
+<transparent_glass_alpha.mfm>
+	<fx>	shaders/materials/pbs/glass_material_skinned.fx	</fx>
+	<!--<fx>	shaders/materials/pbs/glass_material.fx	</fx>-->
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/gun2/transparent_glass_alpha2_a.dds	</Texture>
+	</property>
+</transparent_glass_alpha.mfm>
