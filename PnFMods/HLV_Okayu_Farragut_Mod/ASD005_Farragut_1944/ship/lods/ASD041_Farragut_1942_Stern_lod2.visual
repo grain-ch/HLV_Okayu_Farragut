@@ -78,7 +78,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.0033 -0.0033 -1.2849	</min>
-		<max>	0.0033 0.0033 -1.2684	</max>
+		<min>	-0.0033 -0.0033 -1.2843	</min>
+		<max>	0.0033 0.0033 -1.2678	</max>
 	</boundingBox>
 </ASD041_Farragut_1942_Stern_lod2.visual>

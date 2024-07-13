@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/finder/lods/AF076_Rangefinder_2_5m_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/finder/AF076_Rangefinder_2_5m	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </AF076_Rangefinder_2_5m.model>

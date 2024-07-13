@@ -193,7 +193,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.3484 -0.3066 -3.4990	</min>
-		<max>	0.3452 1.4287 0.0033	</max>
+		<min>	-0.3482 -0.3064 -3.4973	</min>
+		<max>	0.3450 1.4280 0.0033	</max>
 	</boundingBox>
 </ASD041_Farragut_1942_MidBack_lod2.visual>

@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1695 0.0000 -0.1963	</min>
-		<max>	0.1704 0.3097 0.2926	</max>
+		<min>	-0.1694 0.0000 -0.1962	</min>
+		<max>	0.1703 0.3095 0.2925	</max>
 	</boundingBox>
 </AGA128_3in70_Mark37_dead_lod1.visual>

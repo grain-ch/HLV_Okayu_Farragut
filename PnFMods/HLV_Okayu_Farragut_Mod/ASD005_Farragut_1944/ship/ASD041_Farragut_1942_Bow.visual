@@ -101,7 +101,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.0033 -0.0033 -0.1651	</min>
-		<max>	0.0033 0.0033 0.1199	</max>
+		<min>	-0.0033 -0.0033 -0.1650	</min>
+		<max>	0.0033 0.0033 0.1198	</max>
 	</boundingBox>
 </ASD041_Farragut_1942_Bow.visual>

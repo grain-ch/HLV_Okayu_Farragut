@@ -97,6 +97,6 @@
 	</renderSet>
 	<boundingBox>
 		<min>	-0.0923 0.0000 -0.0200	</min>
-		<max>	0.0923 0.1141 0.0200	</max>
+		<max>	0.0923 0.1140 0.0200	</max>
 	</boundingBox>
 </AF076_Rangefinder_2_5m.visual>

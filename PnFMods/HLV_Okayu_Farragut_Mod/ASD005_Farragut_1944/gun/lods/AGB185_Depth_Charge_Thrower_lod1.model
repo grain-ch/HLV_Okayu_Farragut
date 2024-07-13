@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/gun/lods/AGB185_Depth_Charge_Thrower_lod2	</parent>
 	<extent>	8.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/gun/lods/AGB185_Depth_Charge_Thrower_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </AGB185_Depth_Charge_Thrower_lod1.model>

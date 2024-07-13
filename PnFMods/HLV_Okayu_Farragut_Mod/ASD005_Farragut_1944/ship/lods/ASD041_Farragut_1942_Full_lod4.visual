@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.3429 -0.2666 -3.4444	</min>
-		<max>	0.3429 0.8763 3.4923	</max>
+		<min>	-0.3427 -0.2665 -3.4427	</min>
+		<max>	0.3427 0.8759 3.4906	</max>
 	</boundingBox>
 </ASD041_Farragut_1942_Full_lod4.visual>

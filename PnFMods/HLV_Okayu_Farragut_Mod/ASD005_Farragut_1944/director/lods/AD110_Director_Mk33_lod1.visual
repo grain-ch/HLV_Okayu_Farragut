@@ -69,7 +69,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1230 -0.0008 -0.0995	</min>
-		<max>	0.1302 0.2077 0.1222	</max>
+		<min>	-0.1229 -0.0008 -0.0995	</min>
+		<max>	0.1301 0.2076 0.1221	</max>
 	</boundingBox>
 </AD110_Director_Mk33_lod1.visual>

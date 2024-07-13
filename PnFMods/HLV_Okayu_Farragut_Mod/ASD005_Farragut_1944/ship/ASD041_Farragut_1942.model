@@ -3,5 +3,5 @@
 	<parent>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/ship/lods/ASD041_Farragut_1942_Full_lod4	</parent>
 	<extent>	400.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/ship/ASD041_Farragut_1942	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </ASD041_Farragut_1942.model>

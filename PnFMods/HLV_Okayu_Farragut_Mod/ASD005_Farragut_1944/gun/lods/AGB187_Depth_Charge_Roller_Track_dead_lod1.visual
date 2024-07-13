@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.0410 -0.0022 -0.1043	</min>
-		<max>	0.0310 0.0998 0.1724	</max>
+		<min>	-0.0410 -0.0022 -0.1042	</min>
+		<max>	0.0310 0.0998 0.1723	</max>
 	</boundingBox>
 </AGB187_Depth_Charge_Roller_Track_dead_lod1.visual>
