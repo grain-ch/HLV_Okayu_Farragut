@@ -1,7 +1,6 @@
 <AGB187_Depth_Charge_Roller_Track.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/gun/lods/AGB187_Depth_Charge_Roller_Track_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/gun/AGB187_Depth_Charge_Roller_Track	</nodefullVisual>
+	<visual>	PnFMods/HLV_Okayu_Farragut_Mod/ASD005_Farragut_1944/gun/AGB187_Depth_Charge_Roller_Track.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </AGB187_Depth_Charge_Roller_Track.model>
